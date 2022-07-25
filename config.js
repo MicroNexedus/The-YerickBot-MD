@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url'
 global.owner = [
   ['525614298026', 'creador', true],
   ['972529277406'],
-  ['50495745934'], //numero del owner
+  ['525614298026'], //numero del owner
 ]
 //aqui poner los numero premium 
 global.mods = [] 
