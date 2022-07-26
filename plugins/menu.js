@@ -65,7 +65,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 let str = `
 *ミ✨ 𝑯𝒐𝒍𝒂 𝒄𝒐𝒎𝒐 𝒆𝒔𝒕𝒂 ✨${name}✨, 𝒂𝒒𝒖𝒊 𝒆𝒔𝒕𝒂 𝒆𝒍 𝒎𝒆𝒏𝒖 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒐 𝒅𝒆 
-𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫 💖彡*
+The YerickBot MD 💖彡*
 
 𝙩𝙞𝙚𝙢𝙥𝙤 𝙖𝙘𝙩𝙞𝙫𝙤𝙨: ${uptime}
 
@@ -410,7 +410,7 @@ _________________
 ° ඬ⃟👑 _${usedPrefix}añadirdiamantes *<@tag> <cantidad>*_
 ° ඬ⃟👑 _${usedPrefix}añadirxp *<@tag> <cantidad>*_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/elrebelde21/The-LoliBot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/MicroNexedus/The-YerickBot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['🔰grupos', '.grupos'],
 ['🔰 𝙈𝙚𝙣𝙪 𝘼𝙪𝙙𝙞𝙤𝙨 🔰', '.audios']
 
